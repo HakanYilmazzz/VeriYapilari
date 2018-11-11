@@ -1,0 +1,4 @@
+1) tek yonlu liste sýralý mý?
+2) ikili arama agacý mý?
+3) Heap mi? 
+4) AVL rotasyon cýzme agaca eleman ekleme 

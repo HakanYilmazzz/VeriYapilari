@@ -1,0 +1,7 @@
+1) tekli dügüm sayýsý
+
+2) kardes dügüm
+
+3) listenýn en kucuk elemaný
+
+4) 2 boyutlu matýs olustur elemanlara 0 ata
